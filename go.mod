@@ -1,3 +1,3 @@
-module github.com/zoceanfly/myhello
+module github.com/zhhOceanfly/myhello
 
 go 1.18
